@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-author - sanika shirke
+author - sanika shirke (basic)
